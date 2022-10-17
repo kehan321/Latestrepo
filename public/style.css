@@ -1,0 +1,90 @@
+.name{
+color: white;
+    background-color: black;
+    text-align: center;
+
+}
+
+#pera1{
+
+  margin-left: 70px;
+  margin-right: 70px;
+
+}
+.heading{
+
+   background-color: gray   ;
+   width: 68px;
+   margin-left: 70px;
+   margin-right: 70px;
+}
+ ul {
+    list-style: none;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  
+  ul li::before {
+    content: "\2022";
+    color: darkcyan;
+    font-weight: bold;
+    display: inline-block; 
+    width: 2em;
+    margin-left: -1em;
+  }
+
+  .Experience{
+
+    background-color: gray;
+    width: 128px;
+    margin-left: 70px;
+    margin-right: 70px;
+   
+  }
+
+  .JT{
+
+    color: darkcyan;
+   
+  }
+
+ 
+
+  span{
+
+    color: black;
+  }
+  div{
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  hr{
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  .Education{
+
+
+    background-color: gray;
+    width: 120px;
+    margin-left: 70px;
+    margin-right: 70px;
+   
+  }
+
+  .Activities{
+    background-color: gray;
+    width: 110px;
+
+   
+  }
+
+  div p {
+    font-style: italic;
+  }
+#pera6{
+
+  color:  rgb(15, 105, 105);
+}
